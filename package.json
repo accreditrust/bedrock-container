@@ -1,0 +1,30 @@
+{
+  "name": "bedrock-container",
+  "version": "0.0.1.0",
+  "description": "Bedrock container",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-container"
+  },
+  "keywords": [
+    "bedrock container docker"
+  ],
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "http://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-container/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-container",
+  "peerDependencies": {
+    "bedrock": "^1.0.0",
+    "bedrock-express": "^2.0.0",
+    "bedrock-server": "^2.2.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  }
+}
